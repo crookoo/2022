@@ -9,3 +9,4 @@
 | [Day 3: Rucksack Reorganization](https://github.com/crookoo/adventofcode-2022/tree/main/day03)| ⭐ | ⭐ |
 | [Day 4: Camp Cleanup](https://github.com/crookoo/adventofcode-2022/tree/main/day04)| ⭐ | ⭐ |
 | [Day 5: Supply Stacks](https://github.com/crookoo/adventofcode-2022/tree/main/day05)| ⭐ | ⭐ |
+| [Day 6: Tuning Trouble](https://github.com/crookoo/adventofcode-2022/tree/main/day06)| ⭐ | ⭐ |
