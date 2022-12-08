@@ -10,3 +10,4 @@
 | [Day 4: Camp Cleanup](https://github.com/crookoo/adventofcode-2022/tree/main/day04)| ⭐ | ⭐ |
 | [Day 5: Supply Stacks](https://github.com/crookoo/adventofcode-2022/tree/main/day05)| ⭐ | ⭐ |
 | [Day 6: Tuning Trouble](https://github.com/crookoo/adventofcode-2022/tree/main/day06)| ⭐ | ⭐ |
+| [Day 8: Treetop Tree House](https://github.com/crookoo/adventofcode-2022/tree/main/day08)| ⭐ | ⭐ |
