@@ -15,6 +15,7 @@ Example: ```node 1``` to execute 1.js in the same directory.
 | [Day 4: Camp Cleanup](https://github.com/crookoo/adventofcode-2022/tree/main/day04)| ⭐ | ⭐ |
 | [Day 5: Supply Stacks](https://github.com/crookoo/adventofcode-2022/tree/main/day05)| ⭐ | ⭐ |
 | [Day 6: Tuning Trouble](https://github.com/crookoo/adventofcode-2022/tree/main/day06)| ⭐ | ⭐ |
+| [Day 7: No Space Left On Device](https://github.com/crookoo/adventofcode-2022/tree/main/day07)| ⭐ | ⭐ |
 | [Day 8: Treetop Tree House](https://github.com/crookoo/adventofcode-2022/tree/main/day08)| ⭐ | ⭐ |
 | [Day 9: Rope Bridge](https://github.com/crookoo/adventofcode-2022/tree/main/day09)| ⭐ | ⭐ |
 | [Day 10: Cathode-Ray Tube](https://github.com/crookoo/adventofcode-2022/tree/main/day10)| ⭐ | ⭐ |
