@@ -1,5 +1,10 @@
 # Advent of Code 2022 - My Solutions
 
+## Techniques
+
+The solutions are written in JavaScript. Node.js is needed to execute the files.  
+Example: ```node 1``` to execute 1.js in the same directory.
+
 ## Days
 
 | Day  | Part One | Part Two |
@@ -12,3 +17,4 @@
 | [Day 6: Tuning Trouble](https://github.com/crookoo/adventofcode-2022/tree/main/day06)| ⭐ | ⭐ |
 | [Day 8: Treetop Tree House](https://github.com/crookoo/adventofcode-2022/tree/main/day08)| ⭐ | ⭐ |
 | [Day 9: Rope Bridge](https://github.com/crookoo/adventofcode-2022/tree/main/day09)| ⭐ | ⭐ |
+| [Day 10: Cathode-Ray Tube](https://github.com/crookoo/adventofcode-2022/tree/main/day10)| ⭐ | ⭐ |
