@@ -1,10 +1,8 @@
 export default class Monkey {
 
-    constructor(rawInput) {
-        const input = rawInput.split('\n').map(row => row.trim());
-
+    constructor(input) {
         this.index = parseInt(input[0].slice(-2, -1));
-        this.items = input[1].slice(16).split(', ').map(string => parseInt(string));
+        this.items = new Array();
         this.operation = input[2].slice(21).split(' ');
         this.testDivisor = parseInt(input[3].split(' ').pop());
         this.trueMonkey = parseInt(input[4].slice(-1));
@@ -14,13 +12,15 @@ export default class Monkey {
         this.DIVISOR = 3;
     }
 
-    performRound() {
+    performRound(itemList, leastCommonMultiple) {
         this.inspections++;
-        let item = this.items.shift();
-        item = this.performCalculation(item);
-        item = Math.floor(item / this.DIVISOR);
-        let monkeyIndexTo = item % this.testDivisor === 0 ? this.trueMonkey : this.falseMonkey;
-        return { item, monkeyIndexTo };
+        let itemIndex = this.items.shift();
+        itemList[itemIndex] = this.performCalculation(itemList[itemIndex]);
+        itemList[itemIndex] = leastCommonMultiple ?
+            itemList[itemIndex] % leastCommonMultiple :
+            Math.floor(itemList[itemIndex] / this.DIVISOR);
+        let monkeyIndexTo = itemList[itemIndex] % this.testDivisor == 0 ? this.trueMonkey : this.falseMonkey;
+        return { itemIndex, monkeyIndexTo };
     }
 
     performCalculation(item) {
