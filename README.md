@@ -19,7 +19,8 @@ Example: ```node 1``` to execute 1.js in the same directory.
 | [Day 8: Treetop Tree House](https://github.com/crookoo/adventofcode-2022/tree/main/day08)| ⭐ | ⭐ |
 | [Day 9: Rope Bridge](https://github.com/crookoo/adventofcode-2022/tree/main/day09)| ⭐ | ⭐ |
 | [Day 10: Cathode-Ray Tube](https://github.com/crookoo/adventofcode-2022/tree/main/day10)| ⭐ | ⭐ |
-| [Day 11: Monkey in the Middle](https://github.com/crookoo/adventofcode-2022/tree/main/day11)| ⭐ |  |
+| [Day 11: Monkey in the Middle](https://github.com/crookoo/adventofcode-2022/tree/main/day11)| ⭐ | ⭐ |
 | [Day 12: Hill Climbing Algorithm](https://github.com/crookoo/adventofcode-2022/tree/main/day12)| ⭐ | ⭐ |
 | [Day 13: Distress Signal](https://github.com/crookoo/adventofcode-2022/tree/main/day13)| ⭐ | ⭐ |
 | [Day 14: Regolith Reservoir](https://github.com/crookoo/adventofcode-2022/tree/main/day14)| ⭐ | ⭐ |
+| [Day 15: Beacon Exclusion Zone](https://github.com/crookoo/adventofcode-2022/tree/main/day15)| ⭐ | ⭐ |
